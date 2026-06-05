@@ -1,0 +1,17 @@
+[04.06.2026 15:15:39,49] Starting Marathon Skills server 
+Folder: C:\Users\home2\Documents\Codex\2026-06-04\files-mentioned-by-the-user-3\outputs\marathon-skills 
+Python: C:\Users\home2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe 
+URL: http://localhost:8123/ 
+ 
+127.0.0.1 - - [04/Jun/2026 15:15:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:15:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:15:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:19:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:19:45] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:19:45] "GET /assets/marathon-hero.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:19:45] "GET /supabase-config.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jun/2026 15:19:45] "GET /app.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jun/2026 15:19:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jun/2026 15:19:59] "GET /supabase-config.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jun/2026 15:20:00] "GET /app.js HTTP/1.1" 304 -
+^C
